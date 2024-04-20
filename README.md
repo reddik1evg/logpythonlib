@@ -15,4 +15,4 @@
 --ere(info)
 --3.warning("Your warning infomation") or
 --warn = "WARNING"
---ere(warn)
+--warning(warn)
