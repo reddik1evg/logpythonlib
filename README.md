@@ -6,3 +6,13 @@
 --3.CLONE FILE logger.py TO FOLDER WITH YOUR PROJECT--
 --4.WRITE IN MAIN FILE IN YOUR PROJECT STRING import logger--
 --END--
+--COMMANDS--
+--1.ere("Your error information") or 
+--inferror = "ERROR"
+--ere(inferror)
+--2.infolog("Your log information") or
+--info = "INFO"
+--ere(info)
+--3.warning("Your warning infomation") or
+--warn = "WARNING"
+--ere(warn)
